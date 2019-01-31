@@ -1,2 +1,2 @@
 # Harmony-GTK2-Theme
-GTK2 Theme prilagodjena za "Harmony" Plasma Theme 
+GTK2 Theme adapted for "Harmony" Plasma Theme
